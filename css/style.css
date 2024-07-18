@@ -1,0 +1,125 @@
+
+body{
+	font-family:Comic Sans MS,Apple Chancery, Tahoma,verdana;
+	font-size:16px;
+	line-height:1.6em;
+	color: gold;
+	margin:0;
+	
+}
+
+
+
+header{
+	text-align: center;
+	background-color:rgb(255,218,185);
+	text-decoration: underline;
+	color: blue;
+}
+
+.page-intro{
+	background-color:rgba(5, 5, 5, 0.4);
+	text-align: center;
+	font-family: verdana;
+	font-size:14px;
+	color:gold;
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#captains,nav li{
+	display:inline;
+}
+
+#welcome{
+	background-color:rgba(5, 5, 5, 0.4);
+	text-align: center;
+	color:peachpuff;
+}	
+#home, #about, #events{
+	background-image: url("images/Captain_cook.jpg");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+}
+
+#news{
+	background-image: url("images/newspaper.jpg");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+}
+
+
+
+
+.container{
+	width:60%;
+	margin:auto;
+	overflow:hidden;
+	
+}
+
+nav{margin: auto;
+  width: 60%;
+  padding:0;
+	background-color:#333;
+	font-family: Verdana,Tahoma;
+	color:#fff;
+}
+
+nav ar li{
+	display:inline;
+}
+
+nav a{
+	color:#fff;
+	font-size:18px;
+	padding-right:15px;
+}
+a:hover{
+	color: black;
+	background-color:white;
+}
+
+#showcase h1{
+	font-family:Comic Sans MS,Apple Chancery, Bradley Hand ;
+	color:lightsalmon;
+	font-size:50px;
+	line-height: 1.6em;
+	padding-top:30px;
+}
+
+#main{
+	float:left;
+	width:70%;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+#main-footer{
+	background: #333;
+	color:#fff;
+	text-align: center;
+	padding:20px;
+	margin-top:40px;
+}
+
+#calendar{
+	display: flex;
+	justify-content: center;
+
+
+}
+#events{
+	font-family: Tahoma;
+	display: flex;
+	justify-content: center;
+}
+.page-intro a {
+	color: gold;
+	font-weight: bold;
+
+}
+.page-intro a:hover{
+	font-size: 22px;
+}

@@ -5,7 +5,7 @@ body{
     font:normal 16px  arial,Arial, Helvetica, sans-serif;
     line-height: 1.6em;
     margin: 0;
-    background: url("../images/Captain_cook.jpg"));
+    background-image: url("images/Captain_cook.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
  

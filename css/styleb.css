@@ -5,7 +5,7 @@ body{
     font:normal 16px  arial,Arial, Helvetica, sans-serif;
     line-height: 1.6em;
     margin: 0;
-    background-image: url("images/Captain_cook.jpg");
+    background-image: url("../images/Captain_cook.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
  
@@ -37,7 +37,7 @@ a:hover{
     color: #fff;
 }
 .clr{
-    clear:both;
+    clear:both
 }
 .box-1{
     background-color:rgba(0, 0, 205,0.7);

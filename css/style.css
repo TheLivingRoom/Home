@@ -38,7 +38,7 @@ header{
 	color:peachpuff;
 }	
 #home, #about, #events{
-	background-image: url("images/Captain_cook.jpg");
+	background-image: url("../images/Captain_cook.jpg");
 	background-repeat: no-repeat;
  	background-attachment: fixed;
 }

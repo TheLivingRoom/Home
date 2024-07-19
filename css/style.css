@@ -44,7 +44,7 @@ header{
 }
 
 #news{
-	background-image: url("images/newspaper.jpg");
+	background-image: url("../images/newspaper.jpg");
 	background-repeat: no-repeat;
  	background-attachment: fixed;
 }
